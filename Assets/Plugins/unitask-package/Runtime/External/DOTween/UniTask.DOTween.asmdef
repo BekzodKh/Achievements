@@ -1,0 +1,21 @@
+{
+    "name": "UniTask.DOTween",
+    "references": [
+        "UniTask",
+        "GUID:81c02a011bab72e48bd2c3e36eec941e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.dg.dotween",
+            "expression": "",
+            "define": "UNITASK_DOTWEEN_SUPPORT"
+        }
+    ]
+}
